@@ -7,7 +7,7 @@
 - 🤔 &nbsp; 大连理工大学 && 中国科学技术大学
 - 🎓 &nbsp; 机器人软硬件开发、机器人控制算法开发、机器视觉算法开发、强化学习
 - 💼 &nbsp; 业余音乐爱好者
-- ✍️ &nbsp; [个人主页](https://ustc-lizheng.github.io/about/)
+- ✍️ &nbsp; [个人主页](https://lllzheng.github.io/about/)
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USTC-LiZheng&theme=buefy&layout=compact"/>](https://github.com/USTC-LiZheng/)
 
