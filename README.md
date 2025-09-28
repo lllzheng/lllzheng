@@ -1,15 +1,15 @@
 <h2> Yoo! I'm lllzheng.</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=USTC-LiZheng&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/USTC-LiZheng/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=lllzheng&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/lllzheng/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 大连理工大学 && 中国科学技术大学
-- 🎓 &nbsp; 机器人软硬件开发、机器人控制算法开发、机器视觉算法开发、强化学习
-- 💼 &nbsp; 业余音乐爱好者
-- ✍️ &nbsp; [个人主页](https://lllzheng.github.io/)
+- 🤔 &nbsp; University of Science and Technology of China
+- 🎓 &nbsp; Embodied AI, Whole Body Control, Reinforcement Learning, World Model
+- 💼 &nbsp; Amateur music and cooking enthusiasts
+- ✍️ &nbsp; [Blogs](https://lllzheng.github.io/)
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USTC-LiZheng&theme=buefy&layout=compact"/>](https://github.com/USTC-LiZheng/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllzheng&theme=buefy&layout=compact"/>](https://github.com/lllzheng/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -41,4 +41,4 @@
   
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  联系我：zlsy@mail.ustc.edu.cn
+  Contact me：zlsy@mail.ustc.edu.cn
